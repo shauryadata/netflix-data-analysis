@@ -23,7 +23,6 @@ This project explores and visualizes Netflix’s content catalog using Python-ba
 
 ## 📁 Files Included
 - `Netflix.ipynb` — the complete notebook
-- `Netflix.pdf` — clean export for review
 - `Netflix.html` — web-friendly visual version
 - `netflix1.xlsx` — the original dataset
 
