@@ -22,9 +22,9 @@ This project explores and visualizes Netflix’s content catalog using Python-ba
 - Ratings are heavily skewed toward mature audiences (TV-MA, PG-13).
 
 ## 📁 Files Included
-- `Netflix.ipynb` — the complete notebook
-- `Netflix.html` — web-friendly visual version
-- `netflix1.xlsx` — the original dataset
+- `Netflix.ipynb` - the complete notebook
+- `Netflix.html` - web-friendly visual version
+- `netflix1.xlsx` - the original dataset
 
 ## 📌 How to Use
 1. Clone or download this repo
@@ -32,7 +32,7 @@ This project explores and visualizes Netflix’s content catalog using Python-ba
 3. Run the notebook cell-by-cell or explore visuals in PDF/HTML
 
 ## ✅ Author
-Shauryaditya Singh — Aspiring Data Analyst | Python & Visualization enthusiast
+Shauryaditya Singh - Aspiring Data Analyst | Python & Visualization enthusiast
 
 ---
 
