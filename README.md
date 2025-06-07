@@ -1,4 +1,4 @@
-# 📊 Netflix Content Analysis – Exploratory Data Project
+# 📊 Netflix Content Analysis - Exploratory Data Project
 
 This project explores and visualizes Netflix’s content catalog using Python-based EDA techniques. It aims to uncover insights about trends in content type, genre distribution, country contribution, and audience targeting.
 
